@@ -5,7 +5,7 @@ import Footer from "./Footer";
 import Add from './Addtodo'
 import About from './About'
 
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
 
 import React, { useState, useEffect } from 'react';
 
